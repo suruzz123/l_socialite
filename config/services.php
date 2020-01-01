@@ -29,5 +29,11 @@ return [
         'client_secret' => 'kFTQSrYN6mkmo1tq-6EVscQw',
         'redirect' => 'http://localhost:8000/login/google/callback',
     ],
+	
+	'github' => [
+        'client_id' => 'f8b979205b6aa828a9e3',
+        'client_secret' => 'b302493c3d33bc7328fcbf738f3fdead03cd1c33',
+        'redirect' => 'http://127.0.0.1:8000/login/github/callback',
+    ],
 
 ];

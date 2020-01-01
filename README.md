@@ -32,6 +32,7 @@ http://apps.twitter.com
 https://developer.twitter.com
 https://developers.facebook.com
 https://console.developers.google.com
+https://github.com/settings/applications/new
 
 Then goto web.php & declare 2 routes
 
